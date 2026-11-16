@@ -1,0 +1,2 @@
+source E:/ESP32_Node_Monitor/build/gdbinit/symbols
+source E:/ESP32_Node_Monitor/build/gdbinit/connect
